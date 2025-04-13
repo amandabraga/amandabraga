@@ -1,12 +1,26 @@
 ## Oi, seja bem vindo!
 
+**(PT-BR)**
+
 Me chamo Amanda, sou graduada em Ciência da Computação e atuo nos últimos anos como engenheira de qualidade de software.
 
 - 🔍  QA 
 
 - ❤️ Gosto de aprender sobre qualidade de software, devops e arquitetura de sistemas
 
-- 🖥️  Adoro trabalhar com automação de testes, em diferentes camadas
+- 🖥️  Adoro trabalhar com automação de testes
+
+**(EN)**
+
+## Hi, welcome!
+
+My name is Amanda, I have an undergraduate degree in Computer Science and, in the last years, I've been working as software quality engineer.
+
+- 🔍  QA 
+
+- ❤️ I enjoy learning about software quality, devops and systems architecture
+
+- 🖥️  I love working with test automation
 
 <!--
 **amandabraga/amandabraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
